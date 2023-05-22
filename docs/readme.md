@@ -7,8 +7,8 @@ layout: default
 
 # Sofware and Hardware Verification
 
-## [1. Hoare Logic like](hoarelogic/)  
+## [1. Sofware Verification with Hoare Logic like methods](hoarelogic/)  
 
-## [2. Bounded Model Checking](bmc/)
+## [2. Hardware and Sofware Verification with Bounded Model Checking](bmc/)
 
  
