@@ -10,8 +10,8 @@ layout: default
 ## 0. Introduction
 
 
-<div align="center" >
-<iframe  src="FormalVerification-Introduction.pdf#toolbar=1&navpanes=0&scrollbar=1" width="850" height="600"></iframe>
+<div style="margin:auto" align="center" >
+<iframe style="display:block;text-align:center;" src="FormalVerification-Introduction.pdf#toolbar=1&navpanes=0&scrollbar=1&view=FitH" width="850" height="600"></iframe>
 </div>
 
 <br>
