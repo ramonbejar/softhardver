@@ -9,7 +9,8 @@ layout: default
 
 ## 0. Introduction
 
-<iframe src="FormalVerification-Introduction.pdf#toolbar=1&navpanes=0&scrollbar=1" width="850" height="600"></iframe>
+
+<iframe align="middle" src="FormalVerification-Introduction.pdf#toolbar=1&navpanes=0&scrollbar=1" width="850" height="600"></iframe>
 
 
 ## [1. Software Verification with Hoare Logic like methods](hoarelogic/)  
